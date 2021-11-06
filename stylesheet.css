@@ -3,6 +3,7 @@ body {
     flex-direction: column;
 
     font-family: arial;
+    margin: 0;
 }
 
 .header {
