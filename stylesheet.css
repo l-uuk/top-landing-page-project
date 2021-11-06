@@ -53,6 +53,7 @@ a {
 .both-sides-container {
     width: 950px;
     display: flex;
+    gap: 50px;
 }
 
 .sign-up-button-no-border {
